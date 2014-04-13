@@ -19,4 +19,4 @@ I have not build out every feature of these lottery games (primarily the ability
 
 ## Opinion
 
-This assignment has firmly fixed in my head that the lottery is a tax on stupid people; it is truly deplorable how low one's chances of making a winning are, and it is even more deplorable how low that winning is statistically likely to be even when it does occur. I think anyone who has an addiction to gambling will, upon building a similar piece of software, be convinced of the utter folly of participating as a consumer in this industry.
+This assignment has firmly fixed in my head that the lottery is a tax on stupid people; it is truly deplorable how low one's chances of making a winning are, and it is even more deplorable how monetarily low that winning is statistically likely to be even when it does occur. I think anyone who has an addiction to gambling will, upon building a similar piece of software, be convinced of the utter folly of participating as a consumer in this industry.
