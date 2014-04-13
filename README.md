@@ -7,7 +7,7 @@ The primary purpose of this assignment was to demonstrate our knowledge of inher
 
 ## Implementation
 
-The game play is a pretty accurate execution of the 3 most popular games at [the Oklahoma lottery site](http://www.lottery.ok.gov/online_games.asp). They are as follows
+The game play is a pretty accurate execution of the 3 most popular games at [the Oklahoma lottery site](http://www.lottery.ok.gov/online_games.asp). They are as follows:
 
 - Powerball
 - MegaMillions
@@ -17,4 +17,6 @@ The interesting thing about these three games is that their execution is very si
 
 I have not build out every feature of these lottery games (primarily the ability to have Multidraw) due primarily to time constraints and lack of interest. 
 
-This assignment has firmly fixed in my head that the lottery is a tax on stupid people; it is truly deplorable how low one's chances of making a winning are, and it is even more deplorable how low that winning is statistically likely to be even when it does occur. I think anyone who has an addiction to gambling would, upon building a similar piece of software, be convinced of the utter folly of participating as a consumer in the industry.
+## Opinion
+
+This assignment has firmly fixed in my head that the lottery is a tax on stupid people; it is truly deplorable how low one's chances of making a winning are, and it is even more deplorable how low that winning is statistically likely to be even when it does occur. I think anyone who has an addiction to gambling will, upon building a similar piece of software, be convinced of the utter folly of participating as a consumer in this industry.
